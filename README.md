@@ -18,3 +18,5 @@
 
 **Proyecto**
 http://ocean-saviours.azurewebsites.net/
+
+Lider: Christian Brian Vázquez Peña
